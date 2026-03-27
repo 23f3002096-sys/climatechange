@@ -1,0 +1,7 @@
+{
+  "prompt": "A cross-section of an enormous ancient tree trunk, filling the entire frame. The innermost rings are pale, cool, ivory and grey. Moving outward, the rings gradually warm in color — amber, orange, deep red. The outermost rings glow with an intense heat, cracked and smoldering at the very edge. No fire, just color and texture telling a story of accumulating warmth. Photorealistic, extreme close-up, dramatic studio lighting. No text, no labels, no axes, no charts, no diagrams. Negative prompt: text, labels, axes, charts, bar graph, thermometer, globe, melting ice, polar bear, diagrams, numbers",
+  "model": "Ideogram 2",
+  "dataset_name": "NASA GISS Surface Temperature Analysis (GISTEMP)",
+  "dataset_url": "https://data.giss.nasa.gov/gistemp/",
+  "insight": "Global average temperature has risen approximately 1.2 degrees Celsius since 1880, with the rate of warming accelerating sharply after 1980."
+}
